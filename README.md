@@ -1,3 +1,3 @@
-# React + Tailwind + Vite
+# React + Supabase
 
-A simple starting template to reuse for react, tailwind project.
+A simple app to publish test marks
