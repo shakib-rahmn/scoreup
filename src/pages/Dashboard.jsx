@@ -1,6 +1,6 @@
 import { Route, Routes } from "react-router-dom";
 import StudentTable from "../components/StudentTable";
-import EditForm from "../components/EditFOrm";
+import EditForm from "../components/EditForm";
 
 const Dashboard = () => {
   return (
