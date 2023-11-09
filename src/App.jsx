@@ -5,7 +5,7 @@ import Dashboard from "./pages/Dashboard";
 import Sidebar from "./components/Sidebar";
 import { Route, Routes, useNavigate } from "react-router-dom";
 import NotFound from "./components/NotFound";
-import EditForm from "./components/EditFOrm";
+import EditForm from "./components/EditForm";
 import Published from "./pages/Published";
 
 const App = () => {
